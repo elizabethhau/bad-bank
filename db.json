@@ -1,0 +1,140 @@
+{
+  "accounts": [
+    {
+      "name": "Elizabeth",
+      "email": "ehhau@mit.edu",
+      "balance": 0,
+      "password": "12345",
+      "transactions": [
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2020-10-19T13:50:11.577Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2020-10-19T13:51:01.428Z"
+        },
+        {
+          "action": "deposit",
+          "amount": 200,
+          "timestamp": "2020-10-19T13:51:34.356Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2020-10-19T13:52:00.513Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2020-10-20T18:57:46.649Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": -123,
+          "timestamp": "2020-10-20T19:44:23.906Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2020-10-20T19:50:44.474Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2020-10-20T19:55:26.513Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": -27,
+          "timestamp": "2020-10-22T03:16:27.788Z"
+        },
+        {
+          "action": "deposit",
+          "amount": 200,
+          "timestamp": "2020-10-22T03:16:35.973Z"
+        }
+      ]
+    },
+    {
+      "name": "Test1",
+      "email": "test@gmail.com",
+      "balance": 0,
+      "password": "asdfas",
+      "transactions": []
+    },
+    {
+      "name": "test",
+      "email": "abc@gmail.com",
+      "balance": 0,
+      "password": "asdf",
+      "transactions": [
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2020-10-19T13:49:35.603Z"
+        }
+      ]
+    },
+    {
+      "name": "test",
+      "email": "abc@gmail.com",
+      "balance": 0,
+      "password": "sdadsf",
+      "transactions": []
+    },
+    {
+      "name": "Test1",
+      "email": "test@gmail.com",
+      "balance": 0,
+      "password": "asdfasd",
+      "transactions": []
+    },
+    {
+      "name": "Elizabeth Hau",
+      "email": "test2@gmail.com",
+      "balance": 0,
+      "password": "asdf",
+      "transactions": []
+    },
+    {
+      "name": "asdf",
+      "email": "sdftest@gmail.com",
+      "balance": 0,
+      "password": "asdf",
+      "transactions": []
+    },
+    {
+      "name": "asdfsafd",
+      "email": "abcdefa@gmail.com",
+      "balance": 0,
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "Hello",
+      "email": "world@gmail.com",
+      "balance": 0,
+      "password": "hw",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2020-10-22T03:17:19.928Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2020-10-22T03:17:30.220Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": -10,
+          "timestamp": "2020-10-22T03:17:57.136Z"
+        }
+      ]
+    }
+  ]
+}
